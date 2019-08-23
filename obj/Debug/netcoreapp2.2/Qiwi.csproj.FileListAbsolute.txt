@@ -1,0 +1,11 @@
+C:\Users\123456\source\repos\Qiwi\Qiwi\bin\Debug\netcoreapp2.2\Qiwi.deps.json
+C:\Users\123456\source\repos\Qiwi\Qiwi\bin\Debug\netcoreapp2.2\Qiwi.runtimeconfig.json
+C:\Users\123456\source\repos\Qiwi\Qiwi\bin\Debug\netcoreapp2.2\Qiwi.runtimeconfig.dev.json
+C:\Users\123456\source\repos\Qiwi\Qiwi\bin\Debug\netcoreapp2.2\Qiwi.dll
+C:\Users\123456\source\repos\Qiwi\Qiwi\bin\Debug\netcoreapp2.2\Qiwi.pdb
+C:\Users\123456\source\repos\Qiwi\Qiwi\obj\Debug\netcoreapp2.2\Qiwi.csproj.CoreCompileInputs.cache
+C:\Users\123456\source\repos\Qiwi\Qiwi\obj\Debug\netcoreapp2.2\Qiwi.AssemblyInfoInputs.cache
+C:\Users\123456\source\repos\Qiwi\Qiwi\obj\Debug\netcoreapp2.2\Qiwi.AssemblyInfo.cs
+C:\Users\123456\source\repos\Qiwi\Qiwi\obj\Debug\netcoreapp2.2\Qiwi.dll
+C:\Users\123456\source\repos\Qiwi\Qiwi\obj\Debug\netcoreapp2.2\Qiwi.pdb
+C:\Users\123456\source\repos\Qiwi\Qiwi\obj\Debug\netcoreapp2.2\Qiwi.csprojAssemblyReference.cache
